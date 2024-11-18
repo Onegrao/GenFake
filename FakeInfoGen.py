@@ -18,7 +18,7 @@ materia = random.choice(materias)
 dados = {
     "nome": nome,
     "cidade": cidade,
-"cursos":materia,
+    "cursos":materia,
     "ativo": True
 }
 
